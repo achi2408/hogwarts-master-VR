@@ -5,16 +5,16 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Intro.unity
-    guid: 00000000000000000000000000000000
-  - enabled: 1
+    guid: 95ba98dfdae59a8408750af57aec3849
+  - enabled: 0
     path: Assets/Scenes/MainMenu.unity
-    guid: 00000000000000000000000000000000
+    guid: 8d8f2cbb7cb0c884797a9a8380140538
   - enabled: 1
     path: Assets/Scenes/Hogwarts.unity
-    guid: 00000000000000000000000000000000
-  - enabled: 1
+    guid: 3d4b8fe654e9ce245b19088926f6bcd4
+  - enabled: 0
     path: Assets/Scenes/Test.unity
-    guid: 00000000000000000000000000000000
+    guid: 73a963877be919449a306b8de55faf8c
   m_configObjects: {}
